@@ -9,7 +9,7 @@ This AI self-learning car allows it to learn by recording if it could produce an
 <p align="center" width="100%">
 <img
       src="https://imageserver.jtagaca.live/ai_car.gif"
-      height=540px width=870px
+      height=540px 
    />
       </p>
 <p align="center" width="100%">
